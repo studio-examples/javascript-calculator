@@ -1,5 +1,4 @@
-#Calculator using JavaScript Transformer
-=====================
+#Addition using JavaScript Transformer
 
 This example shows how to parse an incoming JSON message and process it using the JavaScript transformer.
 
