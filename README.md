@@ -28,6 +28,6 @@ In this example, we send a JSON message containing two munbers to an HTTP endpoi
     
 ###Go Further
 
-* Read more about Scripting int he ANypoint platform [here](http://www.mulesoft.org/documentation/display/33X/Scripting+Example)
+* Read more about Scripting in the Anypoint platform [here](http://www.mulesoft.org/documentation/display/33X/Scripting+Example)
 
 * Read more about the JavaScript Component [here](http://www.mulesoft.org/documentation/display/current/JavaScript+Component+Reference)
